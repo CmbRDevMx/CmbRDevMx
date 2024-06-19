@@ -1,7 +1,7 @@
 
 
-  <img src="https://img.shields.io/badge/DESARROLLO%3F-No-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/any_text-you_like-blue">
+  <img src="https://img.shields.io/badge/DESARROLLO%3F-TERMUX-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/any_text-TERMUX_ANDROID-blue">
 </p>
 
 QUIERES INFORMACIÓN SOBRE SITIOS WEB Personalizados?
