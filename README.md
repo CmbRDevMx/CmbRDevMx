@@ -1,3 +1,9 @@
+
+
+  <img src="https://img.shields.io/badge/DESARROLLO%3F-No-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/any_text-you_like-blue">
+</p>
+
 QUIERES INFORMACIÓN SOBRE SITIOS WEB Personalizados?
 > [!NOTE]
 > Entra aqui abajo para más información
