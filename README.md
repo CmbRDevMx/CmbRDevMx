@@ -1,7 +1,7 @@
 
-
+![logo](https://github.com/olegos2/mobox/blob/main/docs/img/logo.png) <br />
   <img src="https://img.shields.io/badge/DESARROLLO%3F-TERMUX-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/any_text-TERMUX_ANDROID-blue">
+  <img src="https://img.shields.io/badge/EMULADORES_CODIGO-TERMUX_ANDROID-blue">
 </p>
 
 QUIERES INFORMACIÓN SOBRE SITIOS WEB Personalizados?
